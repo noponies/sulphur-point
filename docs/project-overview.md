@@ -54,16 +54,16 @@ The Sulphur Point (typeface) is a product of Sulphur Point's spatiality, it's in
 Documenting the Sulphur Point space involved photography, Dérive (drift), observation, wayfinding and drawing. Photography in particular was perceived as a noteworthy deviation from the spaces normative usage patterns. Which is ironic, considering how thoroughly surveilled the space is.
 
 ### Bibliography
-Ballvé, T. (2011). Lefebvre, Fetish, Critique | Territorial Masquerades. Territorialmasquerades.net. Retrieved 19 March 2018, from http://territorialmasquerades.net/lefebvre-fetish-critique
+Ballvé, T. (2011). _Lefebvre, Fetish, Critique | Territorial Masquerades._ Territorialmasquerades.net. Retrieved 19 March 2018, from http://territorialmasquerades.net/lefebvre-fetish-critique
 
-Ballvé, T. (2011). Spatiality & Power | Territorial Masquerades. Territorialmasquerades.net. Retrieved 20 March 2018, from http://territorialmasquerades.net/spatiality-power/
+Ballvé, T. (2011). _Spatiality & Power | Territorial Masquerades._ Territorialmasquerades.net. Retrieved 20 March 2018, from http://territorialmasquerades.net/spatiality-power/
 
-European Timeline of Local Events. (2012). Tauranga.kete.net.nz. Retrieved 19 March 2018, from http://tauranga.kete.net.nz/tauranga_local_history/topics/show/584-european-timeline-of-local-events
+_European Timeline of Local Events. (2012)._ Tauranga.kete.net.nz. Retrieved 19 March 2018, from http://tauranga.kete.net.nz/tauranga_local_history/topics/show/584-european-timeline-of-local-events
 
-Lewis, H. (2018). “Contextualizing Place as Type: Creating an Auburn Typeface” by Harry Lewis. Xchanges.org. Retrieved 19 March 2018, from http://www.xchanges.org/contextualizing-place-as-type-creating
+Lewis, H. (2018). _Contextualizing Place as Type: Creating an Auburn Typeface_ Xchanges.org. Retrieved 19 March 2018, from http://www.xchanges.org/contextualizing-place-as-type-creating
 
-Majoor, M. (2018). Typotheque: My Type Design Philosophy by Martin Majoor. Typotheque.com. Retrieved 19 March 2018, from https://www.typotheque.com/articles/my_type_design_philosophy
+Majoor, M. (2018). _Typotheque: My Type Design Philosophy by Martin Majoor._ Typotheque.com. Retrieved 19 March 2018, from https://www.typotheque.com/articles/my_type_design_philosophy
 
-OpenStreetMap contributors. (n.d.). OpenStreetMap. Retrieved from https://www.openstreetmap.org/#map= 16/-37.6650/176.1674
+OpenStreetMap contributors. (n.d.). _OpenStreetMap._ Retrieved from https://www.openstreetmap.org/#map= 16/-37.6650/176.1674
 
-Snider, C. (2018). Bauhaus : Philosophy. Bauhaus.chrissnider.com. Retrieved 19 March 2018, from http://bauhaus.chrissnider.com/pages/philosophy.html
+Snider, C. (2018). _Bauhaus : Philosophy._ Bauhaus.chrissnider.com. Retrieved 19 March 2018, from http://bauhaus.chrissnider.com/pages/philosophy.html
