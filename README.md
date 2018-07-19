@@ -5,7 +5,7 @@ Sulphur Point is a geometric sans serif typeface, with a low contrast stems, hig
 The typeface is the result of an exploration of theories of the political production of space as manifested in the port and recreational marine facilities of Sulphur Point here in Tauranga, New Zealand.
 
 ### Project documentation
-Sulphur Point is part of a larger series of site specific typefaces completed as part of a masters project. Further details regarding this typefaces development are available here, [Project overview](docs/project-overview.md).
+Sulphur Point is part of a larger series of site specific typefaces completed as part of a masters project. Further details regarding this typefaces development are available here, [Project overview](documentation/project-overview.md).
 
 ### Available weights
 Light   
