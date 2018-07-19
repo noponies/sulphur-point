@@ -12,6 +12,7 @@ Light
 Regular  
 Bold   
 
+![Image](images/sp-cover.png)
 ![Image](images/sp.jpg)
 ![Image](images/sp2.jpg)
 ![Image](images/sp3.jpg)
