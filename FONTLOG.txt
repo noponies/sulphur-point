@@ -25,6 +25,12 @@ ChangeLog
 23 July 2018 (Dale Sattler) Sulphur Point v1
 - Initial release
 
+24 July 2018 (Dale Sattler) Sulphur Point v1
+- Updated metrics
+- tightened up consistency of diacritics across weights
+- TTFAutohint windows compatibility flag
+- Added webfont export
+
 Acknowledgements
 
 If you make modifications be sure to add your name (N), 
