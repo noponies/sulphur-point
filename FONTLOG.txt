@@ -22,6 +22,12 @@ at dale@noponies.com
 
 ChangeLog
 
+03 September 2019 (Dale Sattler) Sulphur Point v1
+- Fixed accent component alignment
+- Added Florin, mu, mico, divisionslash glyphs
+- Ran through Font Bakery and attained a pass
+- Slight adjustments to lower case 's' in light weight
+
 23 July 2018 (Dale Sattler) Sulphur Point v1
 - Initial release
 
